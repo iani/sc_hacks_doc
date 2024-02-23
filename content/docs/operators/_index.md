@@ -1,8 +1,7 @@
 ---
 title: Operators
 type: docs
-<!-- prev: docs/first-page -->
-<!-- next: docs/folder/leaf -->
+weight: 3
 sidebar:
   open: true
 ---

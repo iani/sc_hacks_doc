@@ -1,7 +1,7 @@
 ---
 title: GUI Examples
 type: docs
-weight: 2
+weight: 11
 ---
 
 ![Session Gui](images/sessiongui.jpg)

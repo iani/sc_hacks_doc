@@ -1,7 +1,7 @@
 ---
 title: Code Examples 
 type: docs
-weight: 1
+weight: 10
 <!-- prev: / -->
 <!-- next: docs/folder/ -->
 <!-- weight: 10000 -->

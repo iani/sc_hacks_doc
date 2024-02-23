@@ -1,0 +1,9 @@
+---
+title: Mediator Environment
+weight: 1
+---
+
+Mediator is a kind of EnvironmentRedirect that implements some extra features.
+It acts as an EnvironmentProxy, but provides some additional functionality.
+
+- Stop a synth or pattern when replacing the contents of the environment variable where it is stored with a new value.
