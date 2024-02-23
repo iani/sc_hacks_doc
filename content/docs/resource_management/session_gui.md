@@ -1,6 +1,7 @@
 ---
 title: Session Gui
 type: docs
+weight: 2
 ---
 
 ## Session gui prototype
