@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: sc-hacks 
 toc: false
 ---
 
-This is the landing page.
+[*sc-hacks*](https://github.com/iani/sc-hacks-redux) is a [SuperCollider](https://supercollider.github.io/) library for networked live coding.
 
 ## Explore
 

@@ -3,4 +3,15 @@ title: About
 type: about
 ---
 
-This is the about page.
+*sc-hacks* is a [SuperCollider](https://supercollider.github.io/) library for networked live coding.
+
+It lives here: https://github.com/iani/sc-hacks-redux.
+
+It is maintained by [Iannis Zannos](https://iani.github.io/)
+
+This website is an ongoing notebook building documentation for *sc-hacks*.
+
+Long live Phags Pa.
+
+![Phags Pa](phagspa.jpg)
+
