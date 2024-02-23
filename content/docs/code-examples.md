@@ -1,10 +1,7 @@
 ---
 title: Code Examples 
 type: docs
-weight: 10
-<!-- prev: / -->
-<!-- next: docs/folder/ -->
-<!-- weight: 10000 -->
+weight: 100
 ---
 
 Here are some examples of making sound with sc-hacks:
