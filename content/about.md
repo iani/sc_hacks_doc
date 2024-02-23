@@ -11,7 +11,9 @@ It is maintained by [Iannis Zannos](https://iani.github.io/)
 
 This website is an ongoing notebook building documentation for *sc-hacks*.
 
-Long live Phags Pa.
+-----
+
+_Long live Phags Pa._ 
 
 ![Phags Pa](phagspa.jpg)
 

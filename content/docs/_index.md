@@ -1,6 +1,7 @@
 ---
 title: sc-hacks documentation 
-next: code-file-test
+next: code-examples 
+weight: 3
 ---
 
 sc-hacks is a library for networked live coding in supercollider. 
