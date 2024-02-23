@@ -7,3 +7,5 @@ sidebar:
 ---
 
 sc-hacks defines 29 operators.  
+
+And this has been changed.
