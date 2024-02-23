@@ -1,0 +1,55 @@
+---
+title: Operator Syntax
+weight: 1
+---
+
+An operator usually lies between a left argument an a right argument, like this:
+
+#+begin_src sclang
+<Left Argument> + <Right Argument>
+#+end_src
+
+SuperCollider allow one to add one more argument, called /adverb/ which is appended to the operator separated by a period (=.=), like this:
+
+
+#+begin_src sclang
+<Left Argument> +.adverb <Right Argument>
+#+end_src
+
+Adverbs must be positive integer numbers or must follow valid method-name identifier syntax. This means, they may be composed in of the following 2 ways:
+
+** 1. Numeric adverbs
+
+A sequence of one or more numeric characters between 0 and 9.  The following are valid numerical adverbs:
+
+#+begin_src sclang
+<Left Argument> +.0 <Right Argument>
+<Left Argument> +.1 <Right Argument>
+<Left Argument> +.-1 <Right Argument>
+<Left Argument> +.-10 <Right Argument>
+<Left Argument> +.10 <Right Argument>
+#+end_src
+
+The following are not valid numerical adverbs:
+
+#+begin_src sclang
+<Left Argument> +.0.1 <Right Argument>
+<Left Argument> +.1.0 <Right Argument>
+<Left Argument> +.-1.0 <Right Argument>
+<Left Argument> +.-0.1 <Right Argument>
+#+end_src
+
+** 2. Symbolic adverbs
+
+A sequence of alphabetic characters and numeric characters between 0 and 9, and underscores (=_=), starting with a lower case character. The following are valid symbolic arverbs:
+
+#+begin_src sclang
+<Left Argument> +.a <Right Argument>
+<Left Argument> +.alpha <Right Argument>
+<Left Argument> +.alpha1 <Right Argument>
+<Left Argument> +.alpha_1 <Right Argument>
+<Left Argument> +.aCap <Right Argument>
+<Left Argument> +.a_Cap <Right Argument>
+<Left Argument> +.2_a <Right Argument>
+<Left Argument> +._2_a <Right Argument>
+#+end_src

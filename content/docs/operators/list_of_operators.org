@@ -1,5 +1,9 @@
+---
+title: List of Operators
+weight: 2
+---
 #+title: List of Operators
-
+#+weight: 2
 
 sc-hacks defines the following 29 operators:
 

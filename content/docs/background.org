@@ -1,0 +1,20 @@
+---
+title: Background
+weight: 1
+---
+
+** Role models
+
+- JITLib
+- Chuck operator
+
+** Aditional motivation and features
+
+- Provide an alternative to Pbind whose streams can be easily be modified while playing.
+- Use the Observer Pattern to simplify updating of interdependent objects when changed, and to track the state of objects.
+- Using the Library to store instances
+- Osc Groups
+- Simplifying the programming of GUIs
+- Managing paths of code and of sound files
+- Managing and recording OSC data
+- System for editing and playing scores of code and data
